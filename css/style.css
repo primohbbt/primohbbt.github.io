@@ -83,14 +83,11 @@
 			}
 			
 		.imgborder{
-			width: 200px;
-			height: 200px;
 		}
 		
 		.imgborder img {
-			background-color: #C3E44B;
+			background-color: #7ca4e0;
 			width: 100%;
-    		height: 100%;
     		padding: 5px;
     		border: 1px solid black;
     		border-radius: 5px;
